@@ -1,0 +1,58 @@
+.wrapper  {
+    background-image: url("http://tnttravel.tnt-vietnam.com/uploads/news/2016/04/19/japan-sakura_750_536.jpg");
+    height: 400px;
+    width: 400px;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    padding: 10px;
+
+  }
+  
+  .form-backgronund {
+      background-color: #f7f5f1e6;
+      height: 75%;
+      padding: 50px;
+  }
+
+  .form-submit-code {
+      height: 100%;
+      justify-content: space-between;
+      display: flex;
+      flex-direction: column;
+  }
+
+  .title-header .text-color{
+      color: royalblue;
+  }
+
+  .number-list {
+      display: flex;
+      justify-content: space-around;
+  }
+
+  .number-list .item {
+      background-color: white;
+      padding: 10px 25px;
+      border: none;
+      border-width: 0;
+      width: 20px;
+      height: 20px;
+  }
+
+  .radius-button {
+      width: 70px;
+      height: 70px;
+      border-radius: 35px;
+      border: 1px solid gray;
+  }
+
+  .action-form {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+  }
+
+  .request-link {
+      text-decoration: none;
+      color: royalblue;
+  }
